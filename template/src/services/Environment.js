@@ -1,10 +1,10 @@
 const ENV = {
     local: {
         env: 'local',
-        apiUrl:'aaa'
+        apiUrl:''
     },
     staging: {
-        env: 'development',
+        env: 'staging',
         apiUrl: ''
     },    
     production: {

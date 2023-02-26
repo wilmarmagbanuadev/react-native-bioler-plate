@@ -1,4 +1,6 @@
 # react-native-bioler-plate
-Basic react native bioler plate for start
+Starting with this basic React Native boilerplate is a great way to kick off a new project and quickly get up and running with building mobile applications
 
-npx react-native init SomeApp --template https://github.com/wilmarmagbanuadev/react-native-bioler-plate.git
+Please run the following command in your terminal or command prompt
+
+npx react-native init AppName --template https://github.com/wilmarmagbanuadev/react-native-bioler-plate.git

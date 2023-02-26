@@ -14,3 +14,4 @@ npm i react-native-safe-area-context
 
 npm i react-native-gesture-handler axios @reduxjs/toolkit @react-navigation/native @react-navigation/stack react-native-screens react-redux react-native-safe-area-context
 
+npx react-native init MyApp --template @wilmarmagbanuadev/react-native-bioler-plate

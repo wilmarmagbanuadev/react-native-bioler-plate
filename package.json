@@ -1,0 +1,8 @@
+{
+  "name": "react-native-biolerplate",
+  "version": "0.0.1",
+  "description": "React Native Biolerplate",
+  "repository": "git@github.com:wilmarmagbanuadev/react-native-bioler-plate.git",
+  "author": "Wilmar Magbanua <wilmarmagbanuadev@gmail.com>",
+  "license": "MIT"
+}
